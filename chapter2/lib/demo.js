@@ -9,5 +9,5 @@
 'use strict';
 
 exports.awesome = function() {
-  return 'awesome.2';
+  return 'awesome.1';
 };
