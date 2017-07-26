@@ -30,7 +30,7 @@ var assert = require('assert');
 
 suite('AwesomenessTest', function(){
   test('#awesome()', function(done){
-    assert.equal(demo.awesome(), 'awesome');
+    assert.equal(demo.awesome(), 'awesome!');
     done();
   });
 });
